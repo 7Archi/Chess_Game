@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bibl", "Bibl\Bibl.vcxproj", "{964BE48E-8B55-4240-8285-9B1051FA7778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Debug|x64.ActiveCfg = Debug|x64
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Debug|x64.Build.0 = Debug|x64
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Debug|x86.ActiveCfg = Debug|Win32
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Debug|x86.Build.0 = Debug|Win32
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Release|x64.ActiveCfg = Release|x64
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Release|x64.Build.0 = Release|x64
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Release|x86.ActiveCfg = Release|Win32
+		{964BE48E-8B55-4240-8285-9B1051FA7778}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B8D6D38-BF0A-4A85-AC24-90D687217CC6}
+	EndGlobalSection
+EndGlobal

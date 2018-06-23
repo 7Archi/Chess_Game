@@ -1,0 +1,11 @@
+﻿  Bibl.cpp
+c:\users\user1\desktop\для а\bibl\bibl\functionss.h(1): warning C4081: требуется "("; обнаружен "newline"
+c:\users\user1\desktop\для а\bibl\bibl\functionsl.h(1): warning C4081: требуется "("; обнаружен "newline"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""int __cdecl Attack(int * *,int,int,int,int)" (?Attack@@YAHPEAPEAHHHHH@Z)"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""int __cdecl Castling(int * *,int,int,int,int,int)" (?Castling@@YAHPEAPEAHHHHHH@Z)"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""int __cdecl CheckSafetyKing(int * *,int,int)" (?CheckSafetyKing@@YAHPEAPEAHHH@Z)"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl stdout_chess(int * *,int)" (?stdout_chess@@YAXPEAPEAHH@Z)"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl SwapMove(int *,int *)" (?SwapMove@@YAXPEAH0@Z)"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""int __cdecl Charge(int * *,int,int,int,int)" (?Charge@@YAHPEAPEAHHHHH@Z)"
+Bibl.obj : error LNK2001: неразрешенный внешний символ ""void __cdecl Change(int * *,int,int)" (?Change@@YAXPEAPEAHHH@Z)"
+C:\Users\User1\Desktop\для А\Bibl\x64\Release\Bibl.exe : fatal error LNK1120: неразрешенных внешних элементов: 7
